@@ -1,0 +1,457 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить"
+          }
+        }
+      }
+    },
+    "Add an affirmation" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить аффирмацию"
+          }
+        }
+      }
+    },
+    "Background color" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет фона"
+          }
+        }
+      }
+    },
+    "Blue" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Синий"
+          }
+        }
+      }
+    },
+    "Category" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Категория"
+          }
+        }
+      }
+    },
+    "Choose a gender" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите пол"
+          }
+        }
+      }
+    },
+    "Female" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Женский"
+          }
+        }
+      }
+    },
+    "Friendship" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дружба"
+          }
+        }
+      }
+    },
+    "Further" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Далее"
+          }
+        }
+      }
+    },
+    "Gender" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пол"
+          }
+        }
+      }
+    },
+    "Gender will help to make affirmations more personalised." : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пол поможет сделать аффирмации более персонализированными."
+          }
+        }
+      }
+    },
+    "I am a kind and caring friend, and I receive the same in return" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я добрый и заботливый друг, и я получаю то же самое в ответ"
+          }
+        }
+      }
+    },
+    "I am a magnet for genuine and lasting friendships" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я - магнит для искренних и прочных дружеских отношений"
+          }
+        }
+      }
+    },
+    "I am a magnet for loving and fulfilling relationships" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я - магнит для любящих и полноценных отношений"
+          }
+        }
+      }
+    },
+    "I am grateful for the amazing friends in my life" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я благодарна за потрясающих друзей в моей жизни"
+          }
+        }
+      }
+    },
+    "I am grateful for the love that surrounds me" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я благодарен за любовь, которая меня окружает"
+          }
+        }
+      }
+    },
+    "I am surrounded by love every day and in every way" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я окружен любовью каждый день и во всех отношениях."
+          }
+        }
+      }
+    },
+    "I am surrounded by supportive and loving friends" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Меня окружают любящие и поддерживающие друзья"
+          }
+        }
+      }
+    },
+    "I am worthy of love and deserve to receive love in abundance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я достоин любви и заслуживаю того, чтобы получать ее в изобилии"
+          }
+        }
+      }
+    },
+    "I attract friends who support and uplift me" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я привлекаю друзей, которые поддерживают и поднимают мне настроение"
+          }
+        }
+      }
+    },
+    "I attract love and loving relationships into my life" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я привлекаю в свою жизнь любовь и любовные отношения"
+          }
+        }
+      }
+    },
+    "I attract positive and loyal friendships into my life" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я привлекаю в свою жизнь позитивные и верные дружеские отношения"
+          }
+        }
+      }
+    },
+    "I nurture and cherish my friendships" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я холю и лелею свои дружеские отношения"
+          }
+        }
+      }
+    },
+    "I radiate love and others reflect love back to me" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я излучаю любовь, и другие отражают ее в ответ."
+          }
+        }
+      }
+    },
+    "It is better to choose a background colour that creates a pleasant and inspiring mood for you." : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лучше выбрать цвет фона, который создает приятное и вдохновляющее настроение."
+          }
+        }
+      }
+    },
+    "Language selection" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбор языка"
+          }
+        }
+      }
+    },
+    "Love" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любовь"
+          }
+        }
+      }
+    },
+    "Love comes to me easily and effortlessly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любовь приходит ко мне легко и непринужденно"
+          }
+        }
+      }
+    },
+    "Love flows to me and through me effortlessly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любовь течет ко мне и через меня без всяких усилий"
+          }
+        }
+      }
+    },
+    "Male" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мужской"
+          }
+        }
+      }
+    },
+    "My friends and I grow together in friendship and harmony" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы с друзьями растем вместе в дружбе и согласии"
+          }
+        }
+      }
+    },
+    "My friends and I grow together in love and harmony" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мои друзья и я растем вместе в любви и гармонии"
+          }
+        }
+      }
+    },
+    "My friends and I share mutual respect and trust" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы с друзьями испытываем взаимное уважение и доверие"
+          }
+        }
+      }
+    },
+    "My friendships are filled with joy, laughter, and understanding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мои дружеские отношения наполнены радостью, смехом и пониманием"
+          }
+        }
+      }
+    },
+    "My heart is open to giving and receiving love" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мое сердце открыто для того, чтобы дарить и принимать любовь"
+          }
+        }
+      }
+    },
+    "My relationships are filled with love, happiness, and respect" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мои отношения наполнены любовью, счастьем и уважением"
+          }
+        }
+      }
+    },
+    "Red" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Красный"
+          }
+        }
+      }
+    },
+    "Select a background" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите фон"
+          }
+        }
+      }
+    },
+    "Select a category" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите категорию"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начало"
+          }
+        }
+      }
+    },
+    "Text" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Текст"
+          }
+        }
+      }
+    },
+    "The category will help you choose affirmations that best suit your goals and interests." : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Категория поможет вам выбрать аффирмации, которые наилучшим образом соответствуют вашим целям и интересам."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
