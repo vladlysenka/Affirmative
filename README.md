@@ -12,6 +12,6 @@
 Приложение предоставляет простой и эффективный инструмент для тех, кто хочет повысить свою самооценку, уверенность в себе и общий позитивный настрой. Включив аффирмации в свой ежедневный распорядок, вы сможете добиться более сбалансированного и позитивного мышления.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/f613f8fa-30cf-41f4-b386-c86f48b634ab" width="400" height="800">
-<img src="https://github.com/user-attachments/assets/8d8f89db-5982-4da3-a6ed-2b536ecf318f" width="400" height="800">
+<img src="https://github.com/user-attachments/assets/f613f8fa-30cf-41f4-b386-c86f48b634ab" width="390" height="768">
+<img src="https://github.com/user-attachments/assets/8d8f89db-5982-4da3-a6ed-2b536ecf318f" width="390" height="768">
 </div>
